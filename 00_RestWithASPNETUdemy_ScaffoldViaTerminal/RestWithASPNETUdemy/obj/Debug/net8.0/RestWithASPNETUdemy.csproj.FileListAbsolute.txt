@@ -1,0 +1,5 @@
+C:\Users\ricardo.viana.zangri\Documents\Estudo_APIs\RestWithASP.NET5Udemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\net8.0\RestWithASPNETUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.viana.zangri\Documents\Estudo_APIs\RestWithASP.NET5Udemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\net8.0\RestWithASPNETUdemy.AssemblyInfoInputs.cache
+C:\Users\ricardo.viana.zangri\Documents\Estudo_APIs\RestWithASP.NET5Udemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\net8.0\RestWithASPNETUdemy.AssemblyInfo.cs
+C:\Users\ricardo.viana.zangri\Documents\Estudo_APIs\RestWithASP.NET5Udemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\net8.0\RestWithASPNETUdemy.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.viana.zangri\Documents\Estudo_APIs\RestWithASP.NET5Udemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\net8.0\RestWithASPNETUdemy.MvcApplicationPartsAssemblyInfo.cache
